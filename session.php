@@ -1,5 +1,5 @@
 <?php
-	//Copyright 2017 HappySoft
+	//Copyright 2017 HappySoftGroup
 	//https://www.apache.org/licenses/LICENSE-2.0.html
 	if (!isset($_SESSION['sessionstarted'])) {
 		session_start();
